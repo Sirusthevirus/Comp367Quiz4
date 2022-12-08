@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace Comp367Quiz4
 {
+    //DB access has already been accomplished on current date 2022-12-08 by Ashley Turnbull
     public class Program
     {
         public static void Main(string[] args)

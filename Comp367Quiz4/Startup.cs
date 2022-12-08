@@ -26,6 +26,8 @@ namespace Comp367Quiz4
             services.AddRazorPages();
         }
 
+        //DB access has already been accomplished on current date 2022-12-08 by Ashley Turnbull
+
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
